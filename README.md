@@ -1,2 +1,2 @@
 # hts-issues
-Issue repository for the HazardTrackingSystem project
+This is the public issue repository for the HazardTrackingSystem project.
